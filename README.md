@@ -10,8 +10,6 @@
 it's really time pass game during school time and even any time with your `friends` 
 any one can play and even easily understand the game
 
-### [Check Release](https://raj-rathod.github.io/tic-toc-game/)
-
 ### Desktop view 
 
 <div align="center">
