@@ -7,9 +7,8 @@
 # Tic Tac Toe Game
 
 > it very famous game any one can easily play and even easily develop 
-it's really time pass game during school time and even any time with your `friends` and `girlfriend` 
+it's really time pass game during school time and even any time with your `friends` 
 any one can play and even easily understand the game
-I also developed this game  just for fun and play it with my friends and i am waiting for playing with my `girlfriend`
 
 ### [Check Release](https://raj-rathod.github.io/tic-toc-game/)
 
